@@ -1,0 +1,59 @@
+---
+# For configuration options and examples, please see:
+# https://github.com/benphelps/homepage/wiki/Bookmarks
+
+- Productivity:
+    - JupiterCockpit:
+        - abbr: JP
+          href: https://jupiter.local.pfeferki.com
+    - Crowdsec:
+        - abbr: CS
+          href: https://app.crowdsec.net/instances
+    - Excalidraw:
+        - abbr: ED
+          href: http://10.0.1.99:5000      
+    - Coach.me: 
+        - abbr: CM
+          href: https://www.coach.me/dashboard        
+- Social:
+    - Reddit:
+        - abbr: RE
+          href: https://reddit.com/
+    - TechnoTim:
+        - abbr: TT
+          href: https://docs.technotim.live
+- Education:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/
+    - DW Harry:
+        - abbr: HW
+          href: https://learngerman.dw.com/en/harry-gefangen-in-der-zeit/c-55727738
+    - Easy Japanese:
+        - abbr: YA
+          href: https://www.nhk.or.jp/lesson/en/lessons/      
+- Work:
+    - Dashboard:
+      - abbr: DB
+        href: https://kyndryl.sharepoint.com/sites/SecurityandResiliencyWinCenter/Lists/New%20Business%20Request%20for%20Assistance/MyItems.aspx?env=WebViewList
+    - SR Offering:
+      - abbr: OF    
+        href: https://kyndryl.sharepoint.com/sites/security-resiliency-offerings
+    - Workday:
+      - abbr: WD
+        href: https://wd5.myworkday.com/kyndryl
+    - Kyndryl:
+      - abbr: KD
+        href: https://kyndryl.sharepoint.com      
+    - ADP:
+      - abbr: ADP
+        href: https://urldefense.proofpoint.com/v2/url?u=https-3A__connect.kyndryl.net_app_kyndrylokta-5Fpolandadprbpayrollportal-5F1_exk8kxs9jb8f5yXad697_sso_saml&d=DwMDaQ&c=cCoa5WWAB7EEETJScYfkXg&r=Rslr6oA1XGjwxUzHM9br-i4qpNng3xlxXIRbfUquB9o&m=37d3ZxxD4jotILuS1lsHdza5Uc8Rv_5UmH1jkRteE8bJnDUvTs_eMHOn7mmACKNs&s=ivB12iJyPvHZ7mhnN7Ldb-WvkSwQDgEY7VXE0BZEPT4&e=
+    - References:
+      - abbr: Ref
+        href: https://rv.roinnovation.com/Kyndryl/HomeV3.aspx
+    - Power Apps:
+      - abbr: Pa
+        href: https://apps.powerapps.com/play/e/4efa21b6-fec6-ecbd-a148-535e980b0819/a/49a68b21-bfff-4350-a361-c5a10bcb167e?tenantId=f260df36-bc43-424c-8f44-c85226657b01&hint=b8e21a22-0d22-4be6-85a5-e86930ea5b74&sourcetime=1700837051935&source=portal&hidenavbar=true
+    - CIC:
+      - abbr: Ci
+        href: https://prodapps.waw.pl.gsni.kyndryl.net/cicapps/#Modules/DeskManagement/deskbookingMain.php#69

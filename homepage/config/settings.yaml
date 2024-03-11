@@ -1,0 +1,21 @@
+---
+# For configuration options and examples, please see:
+# https://github.com/benphelps/homepage/wiki/Settings
+
+background:
+  image:  https://images.unsplash.com/photo-1502790671504-542ad42d5189?auto=format&fit=crop&w=2560&q=80
+#  blur: sm
+#  saturate: 50
+#  brightness: 75
+#  opacity: 20
+
+providers:
+#  openweathermap: bcbeaba3e9ee206d71635394c0884783
+#  weatherapi: weatherapiapikey
+
+title: PIA - Homepage
+
+layout:
+  Infrastructure:
+    style: row
+    columns: 4
