@@ -17,5 +17,5 @@
     longitude: 21.04232 
     units: metric # or imperial
     provider: openweathermap
-    apiKey: 19a2f37f933eb2b8b65c8c115016a049 # required only if not using provider, this reveals api key in requests
+    apiKey: {{HOMEPAGE_VAR_OPENWEATHERMAP_TOKEN}} # required only if not using provider, this reveals api key in requests
     cache: 5 # Time in minutes to cache API responses, to stay within limitspiotr@polaris:~/docker/home
